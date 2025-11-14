@@ -9,3 +9,6 @@ function calcAge() {
 }
 
 function getNote() {}
+
+function testConflict() {}
+
