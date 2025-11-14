@@ -8,4 +8,7 @@ function calcAge() {
         return "15";
 }
 
+function getNote() {}
+
 function testConflict() {}
+
